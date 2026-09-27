@@ -1,1 +1,1 @@
-The SDP 9.26 signmnets
+The SDP 9.26 assignment
